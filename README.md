@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sribalaji&label=Profile%20views&color=0e75b6&style=flat" alt="sribalaji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sribalaji" alt="sribalaji" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://sribalaji101.github.io/portfolio.io/index.html](https://sribalaji101.github.io/portfolio.io/index.html)
 
 - 📫 How to reach me **sribalajiranganathan10@gmail.com**
